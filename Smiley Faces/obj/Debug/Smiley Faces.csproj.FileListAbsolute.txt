@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\bin\Debug\Smiley Faces.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\bin\Debug\Smiley Faces.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\bin\Debug\Smiley Faces.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\obj\Debug\Smiley Faces.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\obj\Debug\Smiley_Faces.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\obj\Debug\Smiley_Faces.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\obj\Debug\Smiley Faces.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\obj\Debug\Smiley Faces.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\obj\Debug\Smiley Faces.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Smiley Faces\obj\Debug\Smiley Faces.pdb
